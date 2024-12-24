@@ -1,0 +1,16 @@
+this is my fikle1 amd i am checking how git staging behaves when i 
+i do cwertain changes in the files which are in git staging area
+
+
+
+
+
+Guss what , now i know what chnages are comes when some modification is done in filse which are in git staging areas 
+
+
+i need to stage those files again
+
+
+i need to stage the changes for commit
+
+first u need to stage the changes then u can commit
